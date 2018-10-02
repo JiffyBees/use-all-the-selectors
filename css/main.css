@@ -1,3 +1,5 @@
+<link href="css/main.css" rel="stylesheet">
+
 body {
 background-color: #fdf6e3;
 }
@@ -36,4 +38,17 @@ nav > ul {
 
 #types {
   color: #93a1a1;
+}
+
+wrapper > .dfn {
+  background-color: #b58900;
+}
+
+strong + .dnf {
+  color: #fff;
+}
+
+a{
+  .no-highlight
+  background-color: #719e07
 }
